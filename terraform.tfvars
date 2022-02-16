@@ -51,7 +51,7 @@ vm_template = "ubuntu-20-terraform-template"
 vm_linked_clone = "false"
 
 # The number of vCPU allocated to the virtual machine #
-vm_cpu = "2"
+vm_cpu = "4"
 
 # The amount of RAM allocated to the virtual machine #
 vm_ram = "8192"
