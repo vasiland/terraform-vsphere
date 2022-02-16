@@ -24,7 +24,7 @@ vsphere_folder = "INFRA/TEST"
 #===============================================================================
 
 # The name of the virtual machine #
-vm_name = "ubuntu-20"
+vm_name = ""
 
 # The datastore name used to store the files of the virtual machine #
 vm_datastore = "SSD-1"
