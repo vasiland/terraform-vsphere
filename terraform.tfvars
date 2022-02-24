@@ -30,16 +30,16 @@ vm_name = ""
 vm_datastore = "SSD-1"
 
 # The vSphere network name used by the virtual machine #
-vm_network = "SERVERS"
+vm_network = ""
 
 # The netmask used to configure the network card of the virtual machine (example: 24) #
 vm_netmask = "24"
 
 # The network gateway used by the virtual machine #
-vm_gateway = "192.168.40.254"
+vm_gateway = ""
 
 # The DNS server used by the virtual machine #
-vm_dns = "192.168.40.1"
+vm_dns = ""
 
 # The domain name used by the virtual machine #
 vm_domain = ""
@@ -57,4 +57,4 @@ vm_cpu = "4"
 vm_ram = "8192"
 
 # The IP address of the virtual machine #
-vm_ip = "192.168.40.55"
+vm_ip = ""
